@@ -1,0 +1,262 @@
+{
+  "main": {
+    "id": "abd5e0557f8d8516",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f4496c40ca16c26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82e2a125b02ba3f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bibliography.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ab3960d4a4bbde8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pasted image 20230812160440.png.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5d9ff8da80391a02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Artificial intelligence powers digital medicine - Alexander L. Fogel1 and Joseph C. Kvedar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b7e4483e751adbff",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "e6ebdec6b03a7456",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Artiﬁcial intelligence with multi-functional machine learning platform development for better healthcare and precision medicine.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "17226a83d69ebabc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Artificial intelligence powers digital medicine - Alexander L. Fogel1 and Joseph C. Kvedar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c994d7df3eccc06d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dermatologist-level classification of skin cancer with deep neural networks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "165c7a81d02d7689",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5e65eb78864a163",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfa6ff82190fb656",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "df25daaf39c1be1e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d4db022892c5d00b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "794ff7e5cd67f786",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "a3b4cf91a4959113",
+    "type": "split",
+    "children": [
+      {
+        "id": "4aeaf4291e7a31cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2de1437932e3b31e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Artificial intelligence powers digital medicine - Alexander L. Fogel1 and Joseph C. Kvedar.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e2d37c5b6e5d7809",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Artificial intelligence powers digital medicine - Alexander L. Fogel1 and Joseph C. Kvedar.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2736904d2f2aaf7d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f659bf6a661135f1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Artificial intelligence powers digital medicine - Alexander L. Fogel1 and Joseph C. Kvedar.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5d9ff8da80391a02",
+  "lastOpenFiles": [
+    "Submission.md",
+    "Artificial intelligence powers digital medicine - Alexander L. Fogel1 and Joseph C. Kvedar.md",
+    "Bibliography.md",
+    "Pasted image 20230812160440.png.md",
+    "Artiﬁcial intelligence with multi-functional machine learning platform development for better healthcare and precision medicine.md",
+    "Pasted image 20230813023618.png",
+    "Pasted image 20230812160500.png",
+    "Pasted image 20230812160440.png",
+    "Pasted image 20230812160204.png",
+    "Dermatologist-level classification of skin cancer with deep neural networks.md",
+    "Deep Convolutional Neural Networks(Theory).md",
+    "Pasted image 20230812021005.png",
+    "The Xception Architecture.png",
+    "Pasted image 20230812015059.png",
+    "Comparative Analysis of Skin Cancer(Benign vs Malignant) Detection using convolutional Neural Networks.md",
+    "Building Neural Network From Scratch.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Development and Validation of a Deep Learning Algorithm for Detection of Diabetic Retinopathy in Retinal Fundus Photographs.md",
+    "Pasted image 20230625220526.png",
+    "Pasted image 20230625212329.png",
+    "Pasted image 20230625211922.png",
+    "Papers/s13244-018-0639-9.pdf",
+    "Papers/Dermatologist-level classification of skin cancer Andre Esteva.pdf",
+    "Papers/Unconfirmed 36019.crdownload",
+    "Papers/Artificial intelligence powers digital medicine - Alexander L. Fogel1 and Joseph C. Kvedar.pdf",
+    "Papers/41746_2017_Article_12.pdf",
+    "Papers/Unconfirmed 688841.crdownload",
+    "Papers/~$aaa010.docx",
+    "Papers/baaa010.docx",
+    "Papers/baaa010.pdf",
+    "Papers"
+  ]
+}
